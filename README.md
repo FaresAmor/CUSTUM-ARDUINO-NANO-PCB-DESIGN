@@ -35,11 +35,11 @@ Designed with **Altium Designer**, this board targets embedded applications need
 - PDF schematics and assembly drawings  
 ## TOP
 
-![Image Alt](https://github.com/FaresAmor/CUSTUM-ARDUINO-NANO-PCB-DESIGN/blob/main/top.png)
+![Image Alt](https://github.com/FaresAmor/CUSTUM-ARDUINO-NANO-PCB-DESIGN/blob/main/TOP.png)
 
 ## BOTTOM
 
-![Image Alt](https://github.com/FaresAmor/CUSTUM-ARDUINO-NANO-PCB-DESIGN/blob/main/bottom.png)
+![Image Alt](https://github.com/FaresAmor/CUSTUM-ARDUINO-NANO-PCB-DESIGN/blob/main/BOTTOM.png)
 
 ## Contribution
 Feel free to explore, modify, and contribute! If you find any issues or improvements, open a pull request or raise an issue. 🚀
