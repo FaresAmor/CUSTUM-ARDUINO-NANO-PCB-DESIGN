@@ -1,0 +1,6 @@
+Change Component Description : Designator=J1 Old Description=Conn Data USB Mini-B SMT Rt Angle Solder Tabs On-The-Go PCB Pegs LF New Description=Conn Data USB Mini-B SMT Rt Angle Solder Tabs On-The-Go PCB Pegs LF | Molex Incorporated 67503-1020
+Change Net Name : Old Net Name=USBDM New Net Name=USB_N
+Change Net Name : Old Net Name=USBDP New Net Name=USB_P
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=NANO-SCH Member=Component J3 22032151
+Added Class: Name=DIFF90
