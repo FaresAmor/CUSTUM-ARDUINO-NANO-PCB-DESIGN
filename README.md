@@ -33,30 +33,26 @@ Designed with **Altium Designer**, this board targets embedded applications need
 - Gerber files for PCB fabrication  
 - Bill of Materials (BOM)  
 - PDF schematics and assembly drawings  
+## TOP
 
-## How to Use  
-1. Open the project in **Altium Designer**.  
-2. Review schematic and PCB layout files.  
-3. Check design rules, board outline, and component placement.  
-4. Generate Gerber and NC drill files for manufacturing.  
-5. Assemble the PCB.  
-6. Program the ATmega328P using:  
-   - The **FT232RL USB interface** via mini USB port, or  
-   - The **ICSP header** with an external programmer.  
+![Image Alt](https://github.com/FaresAmor/ESP32_ALTIUM_DESIGNER/blob/main/top.png)
 
-## Preview
+## BOTTOM
 
-### Top Layer  
-![Top View](https://github.com/FaresAmor/Custom_Arduino_Nano_PCB/blob/main/top.png)
+![Image Alt](https://github.com/FaresAmor/ESP32_ALTIUM_DESIGNER/blob/main/bottom.png)
 
-### Bottom Layer  
-![Bottom View](https://github.com/FaresAmor/Custom_Arduino_Nano_PCB/blob/main/bottom.png)
+## Contribution
+Feel free to explore, modify, and contribute! If you find any issues or improvements, open a pull request or raise an issue. 🚀
 
-## Contribution  
-Feel free to fork, modify, and contribute improvements!  
-If you find any bugs or have suggestions, please open an issue or submit a pull request.
+
+
+
+
+## Demo
+Below is a preview of the PCB design:
+
+![Demo](https://github.com/FaresAmor/ESP32_ALTIUM_DESIGNER/blob/main/vedio.gif)
+
 
 ---
-
-> 💡 **Tip:** This custom Arduino Nano design is perfect for compact embedded projects requiring USB connectivity and stable 5V power supply.
-
+> 💡 **Tip:** This board is ideal for use in embedded prototyping platforms, USB device development, or wearable tech applications.
